@@ -6,7 +6,7 @@
     "develop": "gridsome develop",
     "explore": "gridsome explore",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@gridsome/source-filesystem": "^0.6.2",
@@ -15,6 +15,7 @@
     "@noxify/gridsome-remark-table-align": "^1.0.0",
     "babel-runtime": "^6.26.0",
     "core-js": "^3.6.5",
+    "gh-pages": "^4.0.0",
     "gridsome": "^0.7.3",
     "gridsome-plugin-flexsearch": "github:hamdy/gridsome-plugin-flexsearch",
     "gridsome-plugin-remark-prismjs-all": "^0.3.5",
