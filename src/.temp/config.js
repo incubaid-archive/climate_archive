@@ -1,8 +1,8 @@
 export default {
   "trailingSlash": true,
-  "pathPrefix": "",
+  "pathPrefix": "/climate_archive",
   "titleTemplate": "%s - Threefold Webstack",
-  "siteUrl": "",
+  "siteUrl": "https://ehab-hassan.github.io",
   "version": "0.7.23",
   "catchLinks": true
 }

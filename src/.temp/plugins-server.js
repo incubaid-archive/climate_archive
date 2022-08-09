@@ -8,6 +8,6 @@ export default [
   },
   {
     run: plugin_gridsome_plugin_flexsearch_32,
-    options: {"pathPrefix":"","siteUrl":"","searchFields":["title","name","content","status","linkedin","excerpt","cities","countries","websites"],"collections":[{"typeName":"Blog","indexName":"Blog","fields":["path"]},{"typeName":"Project","indexName":"Project","fields":["path"]},{"typeName":"Person","indexName":"Person","fields":["path"]},{"typeName":"News","indexName":"News","fields":["path"]},{"typeName":"MarkdownPage","indexName":"MarkdownPage","fields":["path"]}],"chunk":false,"compress":false,"autoFetch":true,"autoSetup":true,"flexsearch":{"profile":"default"}}
+    options: {"pathPrefix":"/climate_archive","siteUrl":"https://ehab-hassan.github.io","searchFields":["title","name","content","status","linkedin","excerpt","cities","countries","websites"],"collections":[{"typeName":"Blog","indexName":"Blog","fields":["path"]},{"typeName":"Project","indexName":"Project","fields":["path"]},{"typeName":"Person","indexName":"Person","fields":["path"]},{"typeName":"News","indexName":"News","fields":["path"]},{"typeName":"MarkdownPage","indexName":"MarkdownPage","fields":["path"]}],"chunk":false,"compress":false,"autoFetch":true,"autoSetup":true,"flexsearch":{"profile":"default"}}
   }
 ]

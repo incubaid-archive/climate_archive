@@ -5,6 +5,8 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
+    siteUrl: 'https://ehab-hassan.github.io',
+    pathPrefix: '/climate_archive',
     siteName: 'Threefold Webstack',
     plugins: [
 
