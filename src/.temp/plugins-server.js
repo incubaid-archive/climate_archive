@@ -1,5 +1,5 @@
-import plugin_gridsome_plugin_tailwindcss_31 from "/home/ehab/codewww/github/threefoldfoundation/www_climate_action_project/node_modules/gridsome-plugin-tailwindcss/gridsome.client.js"
-import plugin_gridsome_plugin_flexsearch_32 from "/home/ehab/codewww/github/threefoldfoundation/www_climate_action_project/node_modules/gridsome-plugin-flexsearch/gridsome.client.js"
+import plugin_gridsome_plugin_tailwindcss_31 from "/home/ehab/codewww/github/threefoldfoundation/climate_archive/node_modules/gridsome-plugin-tailwindcss/gridsome.client.js"
+import plugin_gridsome_plugin_flexsearch_32 from "/home/ehab/codewww/github/threefoldfoundation/climate_archive/node_modules/gridsome-plugin-flexsearch/gridsome.client.js"
 
 export default [
   {
